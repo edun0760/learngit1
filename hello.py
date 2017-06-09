@@ -1,2 +1,1 @@
-#code
-leargit1
+print('hello world....');
